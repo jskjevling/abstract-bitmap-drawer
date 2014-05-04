@@ -1,0 +1,3 @@
+The abstract bitmap drawer is a flash-based abstract art generator, using random number generation to determine the outcome of each pass of the routine.  The information is slowly "painted" to a bitmap object, and the routine can be stopped at any point by the user and the current image saved.
+
+This is the first pass at this code, so it is VERY rough.  More of a sketch than a properly commented program.  Also, the code is contained within the .fla file.  The .as file is only here at the moment for easy viewing of the code in a browser.  I will eventually break all the subroutines out into proper classes, but my main goal is to port the whole thing over to HTML5 + JavaScript before I go too crazy cleaning it up, as I can do both in a single process.
